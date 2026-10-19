@@ -1,0 +1,12 @@
+,value
+orders_rows,99441
+order_items_rows,112650
+customers_rows,99441
+products_rows,32951
+payments_rows,103886
+orders_duplicate_order_id,0
+items_missing_price,0
+orders_missing_purchase_timestamp,0
+orders_without_items,775
+delivered_orders,96478
+late_delivered_orders,7826
